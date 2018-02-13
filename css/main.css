@@ -1,0 +1,35 @@
+body {
+	background-image: url("https://cdn.pixabay.com/photo/2014/12/27/16/38/planet-581239_1280.jpg");
+	background-size: cover;
+}
+
+	/* for title */
+	.title {
+	font-family: 'Bungee', cursive;
+/*	text-decoration: underline;*/
+
+	}
+
+/*input section*/
+#planet {
+	width: 20%;
+	border-radius: 3px;
+	
+}
+
+.img-fluid {
+	box-shadow: 5px 7px 18px 0px black;
+    border-radius: 8px;
+}
+
+/*indents text when plaent is searched*/
+.indent {
+	text-indent: 50px;
+}
+
+/*for the button*/
+.btn-primary {
+	border-radius: 3px;
+	border: none;
+	padding: 3px 10px;
+}
